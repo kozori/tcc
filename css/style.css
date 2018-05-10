@@ -1,0 +1,12 @@
+body{
+    font-family: "source code pro", Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.p1{
+    font-size: 150px
+}
+.p2{
+    font-size: 1.2em
+}
